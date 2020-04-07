@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                 |
+| :-- | :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 197 | 01/04/20 07:48 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/68191316) |
+| 196 | 31/03/20 23:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/67920131) |
+| 208 | 02/04/20 22:21 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69529702) |
+| 214 | 03/04/20 01:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69618278) |
+| 195 | 31/03/20 11:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/67516275) |
+| 215 | 03/04/20 02:27 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69637329)         |
+| 201 | 01/04/20 12:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/68386700) |
+| 211 | 02/04/20 23:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69561518) |
+| 194 | 31/03/20 10:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/67467908) |
+| 206 | 02/04/20 20:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69472685) |
+| 207 | 02/04/20 21:36 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69506494) |
+| 200 | 01/04/20 10:57 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/68319394) |
+| 193 | 30/03/20 23:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/67061977) |
+| 198 | 01/04/20 08:47 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/68229640) |
+| 199 | 01/04/20 08:52 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/68232067) |
+| 202 | 01/04/20 23:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/68743235) |
+| 219 | 03/04/20 21:58 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/70310414) |
+| 204 | 02/04/20 10:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69119846) |
+| 221 | 04/04/20 16:33 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/70738934) |
+| 218 | 03/04/20 21:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/70303947) |
+| 222 | 04/04/20 18:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/70789790) |
+| 203 | 02/04/20 08:48 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69050023) |
+| 216 | 03/04/20 08:52 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69863677) |
+| 205 | 02/04/20 19:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69444257) |
+| 220 | 04/04/20 15:37 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/70714910) |
+| 213 | 03/04/20 00:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69575062) |
+| 212 | 02/04/20 23:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69563394) |
+| 210 | 02/04/20 23:30 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69556686) |
+| 217 | 03/04/20 21:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/70302388) |
+| 209 | 02/04/20 23:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/actions/runs/69551311) |
