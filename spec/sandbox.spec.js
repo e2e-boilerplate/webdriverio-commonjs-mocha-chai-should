@@ -1,4 +1,6 @@
-const { expect } = require("chai");
+const { should } = require("chai");
+
+should();
 
 describe("Sandbox", () => {
   before(() => {
@@ -7,9 +9,9 @@ describe("Sandbox", () => {
 
   it("should be on Sandbox", () => {
     const title = browser.getTitle();
-    const header = $("h1");
+    title.should.eql("Sandbox");
 
-    expect(title).to.equal("Sandbox");
-    expect(header.getText()).to.equal("Sandbox");
+    const header = $("h1").getText();
+    header.should.eql("Sandbox");
   });
 });
